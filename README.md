@@ -7,7 +7,7 @@ Currently Lead Engineer at [Plane](https://plane.com) (YC W17), a global payroll
 ### Recently shipped
 
 - [**Gunfinger**](https://github.com/razorjack/gunfinger) – Rust CLI that finds tracks from your own collection inside DJ mixes, using acoustic fingerprinting that follows vinyl pitch shifts and key-locked tempo changes
-- [**Digga**](https://github.com/razorjack/digga) – crate digging for Discogs, by ear: audition records through YouTube, decide with one key, and finally name that tune from an old radio set
+- [**Digga**](https://github.com/razorjack/digga) – Dig Discogs by ear. Local-first, keyboard-driven crate digging: audition vinyl through YouTube, build your DJ collection, and find forgotten tracks
 - [**Leshy**](https://github.com/razorjack/leshy) – PII scrubber for logs, JSON, and debugging data. A local NER model catches what regexes miss, and nothing leaves the woods
 - [**Setcast**](https://github.com/razorjack/setcast) – turns recorded DJ sets into video: `mix.mp3` + tracklist + cover art = an audio-reactive MP4, ready for YouTube
 
